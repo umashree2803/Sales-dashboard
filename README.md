@@ -23,7 +23,7 @@ The goal of this dashboard is to help business stakeholders track key sales metr
   - `sales. Customers` → customer details (customer name, customer code, customer type)  
   - `sales. Date` → (year,month,name)
   - `sales. Markets` → Market details (market code, market name, and zone)  
-  -`sales. Products` →product details (product code, product type)
+  - `sales. Products` → product details (product code, product type)
   - `sales. Transactions` → Sales data (product code,customer code,market code,order date,sales quantity,sales amount,currency,profit margin percentage,profit margin, cost price)  
 
 
@@ -39,10 +39,10 @@ Data preparation was performed in **Power Query**:
 ## Measures Created in Power BI (DAX)
 To perform business analysis, I created the following measures:
 - **Revenue**  
--**sales Qnatity**
--**Revenue contribution %**
--**Profit margin %**
--**Profit margin contribution %**
+- **sales Qnatity**
+- **Revenue contribution %**
+- **Profit margin %**
+- **Profit margin contribution %**
 
 These measures help understand sales performance, profitability, and contribution of each market/zone.
 ## Data Analysis in MySQL
@@ -74,7 +74,8 @@ where date.year='2020';
 
 etc,,,
 
-##  Features
+## Features
+
 - **KPI Cards** → Total Revenue & Sales Quantity  
 - **Filters/Slicers** → Year & Month selection  
 - **Revenue by Markets** → Contribution of each city/region  
