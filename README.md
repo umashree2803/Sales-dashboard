@@ -76,13 +76,16 @@ etc,,,
 
 ## Features:
 
-- **KPI Cards** → Total Revenue & Sales Quantity  
-- **Filters/Slicers** → Year & Month selection  
-- **Revenue by Markets** → Contribution of each city/region  
-- **Profit Contribution % by Market** → Comparison of profit across regions  
-- **Profit Margin % by Market** → Margin analysis  
-- **Revenue Trend** → Revenue by Year, Quarter, and Month  
-- **Profit Margin Contribution by Zone** → Regional distribution of margins
+## Features:
+
+-   **KPI Cards** → Total Revenue & Sales Quantity  
+-   **Filters/Slicers** → Year & Month selection  
+-   **Revenue by Markets** → Contribution of each city/region  
+-   **Profit Contribution % by Market** → Comparison of profit across regions  
+-   **Profit Margin % by Market** → Margin analysis  
+-   **Revenue Trend** → Revenue by Year, Quarter, and Month  
+-   **Profit Margin Contribution by Zone** → Regional distribution of margins
+
 
 
 ## Key Insights from Dashboard:
