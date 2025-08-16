@@ -82,7 +82,8 @@ etc,,,
 - **Profit Contribution % by Market** → Comparison of profit across regions  
 - **Profit Margin % by Market** → Margin analysis  
 - **Revenue Trend** → Revenue by Year, Quarter, and Month  
-- **Profit Margin Contribution by Zone** → Regional distribution of margins  
+- **Profit Margin Contribution by Zone** → Regional distribution of margins
+
 
 ## Key Insights from Dashboard:
 •	Delhi NCR contributes 52% of total revenue and 48% of total profit.
